@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Beats App</string>
+    <string name="listen">Listen all day</string>
+    <string name="paragraph">Enjoy ur playlist without interruption because all charge last up to 22
+    hours- or up to 40 hours with Pure ANC off</string>
+    <string name="login">Login</string>
+    <string name="singup">Sing Up</string>
+    <string name="enter">Enter Premium Sound</string>
+    <string name="name">Name</string>
+    <string name="pass">Pass</string>
+    <string name="foget"><u>Forgot Your Password?</u></string>
+    <string name="account">New Account</string>
+    <string name="welcome">Welcome</string>
+    <string name="beatseller">Best Seller</string>
+    <string name="beatby">Beats By Solor Dr.Dre</string>
+    <string name="wireless">Wireless</string>
+    <string name="price">24.90$</string>
+    <string name="popular">Popular Deals</string>
+    <string name="sellall">Sell All</string>
+    <string name="nba">The NBA Collection</string>
+    <string name="itemprice">250$</string>
+</resources>

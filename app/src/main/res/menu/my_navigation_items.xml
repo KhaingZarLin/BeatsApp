@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp" />
+    <item android:id="@+id/search"
+        android:icon="@drawable/ic_card_travel_black_24dp"
+        android:title="Search"/>
+    <item android:id="@+id/comingsoon"
+        android:title="Comming Soon"
+        android:icon="@drawable/ic_local_offer_black_24dp" />
+    <item android:id="@+id/download"
+        android:title="Download"
+        android:icon="@drawable/ic_perm_identity_black_24dp" />
+
+</menu>
